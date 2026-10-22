@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="320" viewBox="0 0 980 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sputnik · 岩石力学与科研工具</title>
+  <desc id="desc">暖纸色个人主页标题卡，深蓝字标、朱红索引，关注研究、工具与证据。</desc>
+  <rect width="980" height="320" fill="#F8F7F2"/>
+  <g fill="#10243A" font-family="Arial, 'Microsoft YaHei', sans-serif">
+    <text x="30" y="40" font-size="16" font-weight="700" letter-spacing="2">ROCK MECHANICS · RESEARCH TOOLS</text>
+    <text x="23" y="154" font-size="109" font-weight="900" letter-spacing="-6">SPUTNIK</text>
+    <text x="30" y="214" font-size="28" font-weight="700">从研究问题，到自己的工具。</text>
+    <text x="30" y="280" font-size="17">采矿工程 / 岩石力学 / AI 辅助科研</text>
+  </g>
+  <path d="M650 28V292" stroke="#10243A" stroke-width="2"/>
+  <g font-family="Arial, 'Microsoft YaHei', sans-serif">
+    <g fill="#D44732" font-size="17" font-weight="700">
+      <text x="676" y="58">01</text><text x="676" y="143">02</text><text x="676" y="228">03</text>
+    </g>
+    <g fill="#10243A">
+      <g font-size="27" font-weight="700">
+        <text x="717" y="61">研究</text><text x="717" y="146">工具</text><text x="717" y="231">证据</text>
+      </g>
+      <g font-size="17">
+        <text x="717" y="90">煤岩损伤与力学行为</text>
+        <text x="717" y="175">把重复工作交给流程</text>
+        <text x="717" y="260">让结果可追溯、可复核</text>
+      </g>
+    </g>
+  </g>
+  <path d="M30 63H174" stroke="#D44732" stroke-width="5"/>
+</svg>
